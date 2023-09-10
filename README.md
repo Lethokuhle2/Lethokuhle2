@@ -33,7 +33,5 @@ namespace TDD_Course
             if (index == 0) return 0;
             return 1;
         }
-
- just to show
     }
 }
